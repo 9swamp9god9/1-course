@@ -1,15 +1,14 @@
 #zadanie 1
-# from math import sqrt
-# import datetime
+ from math import sqrt
+ import datetime
 
-# number = int(input('Введите число: '))
-# print(sqrt(number))
+ number = int(input('Введите число: '))
+ print(sqrt(number))
 
 
 
-#
-# datetime_now = datetime.datetime.now()
-# print(datetime_now)
+ datetime_now = datetime.datetime.now()
+ print(datetime_now)
 
 
 #zadanie 2
