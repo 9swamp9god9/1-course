@@ -16,13 +16,13 @@ print(read_file(2,1))
 
 #zadanie 2
 
-# def new_file(text: str):
-#     with open('/Users/swampgod/Desktop/user_input.txt', 'a+', encoding="utf-8") as file:
-#         file.write(text)
-#     return print("Данные записаны")
-#
-#
-# new_file('AaaaAAAAaaaa')
+ def new_file(text: str):
+     with open('/Users/swampgod/Desktop/user_input.txt', 'a+', encoding="utf-8") as file:
+         file.write(text)
+     return print("Данные записаны")
+
+
+ new_file('AaaaAAAAaaaa')
 
 
 #zadanie 3
